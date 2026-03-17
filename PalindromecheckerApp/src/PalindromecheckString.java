@@ -1,4 +1,6 @@
-public class PalindromecheckString {import java.util.Scanner;
+import java.util.Scanner;
+
+public class PalindromecheckString {
         public static void main(String[] args) {
 
             Scanner scanner = new Scanner(System.in);
@@ -23,4 +25,4 @@ public class PalindromecheckString {import java.util.Scanner;
             scanner.close();
         }
     }
-}
+
